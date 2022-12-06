@@ -1,3 +1,5 @@
+#!/usr/bin/env/python3
+
 #This program shows the number of characters in a string using "len() function"
 # converting and using ==== print( len( input("What is your name:\n") ) )
 
