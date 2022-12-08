@@ -5,4 +5,4 @@ Area of Learning:
 ***Conditional Statements
 **Logical Operators
 **Code Blocks
-**Scope
+**Global and Local Scope
