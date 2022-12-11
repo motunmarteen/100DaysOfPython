@@ -1,4 +1,4 @@
-Day 1 of 100 Days Python Code Challenge
+Day 3 of 100 Days Python Code Challenge
 
 Area of Learning:
 
