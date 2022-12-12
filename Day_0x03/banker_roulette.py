@@ -8,7 +8,9 @@ names = names_string.split(", ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-banker_roulette = random.randint(0, 6)
+x = len(names)
+
+banker_roulette = random.randint(0, x - 1)
 
 if banker_roulette == 0:
     print(f"{names[0]} is going to buy the meal today!")
