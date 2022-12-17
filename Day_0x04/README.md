@@ -5,3 +5,5 @@ Area of Learning:
 ***For Loop
 **sum()
 **range()
+**max()
+**min()
